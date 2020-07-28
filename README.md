@@ -7,7 +7,7 @@ Pesticides are also special, because while they protect the crop with the right 
 You need to determine the outcome of the harvest season, i.e. whether the crop would be healthy (alive), damaged by pesticides or damaged by other reasons.
 
 ## Dataset
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/hrsht-13/Machine_Learning_in_Agriculture/blob/master/data_description.png)
 
 ###### Link: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#ProblemStatement
 
