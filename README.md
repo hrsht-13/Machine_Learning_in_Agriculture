@@ -15,5 +15,8 @@ You need to determine the outcome of the harvest season, i.e. whether the crop w
 The evaluation metric for this hackathon is Accuracy Score.
 
 ## LeaderBoard 
+No. of Registered: 14988
+Public Leaderboard rank: 77
+Private Leaderboard rank: 105
 https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#LeaderBoard
 
